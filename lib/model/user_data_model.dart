@@ -2,6 +2,8 @@
 //
 //     final userData = userDataFromJson(jsonString);
 
+//? WEBSITE TO GENERATE MODEL :- https://app.quicktype.io/
+
 import 'dart:convert';
 
 List<UserData> userDataFromJson(String str) =>
